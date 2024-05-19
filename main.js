@@ -11,9 +11,15 @@ moveButton.addEventListener("click", function () {
 var vertical = Math.floor(Math.random() * 400);
 var horizontal = Math.floor(Math.random() * 400);
 moveButton.style.position = "absolute";
-moveButton.style.right = vertical + "px";
+moveButton.style.left = vertical + "px";
 moveButton.style.top = horizontal + "px";
 
+console.log(clicou)
+clicou++
+if(clicou === 6) {
+    alert("Clica em SIM e acredita em mim pfvr")
+    clicou = 0
+}
 
 });
 

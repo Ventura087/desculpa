@@ -58,7 +58,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Roboto", sans-serif;
-    background: url("https://static.significados.com.br/foto/5839-pf-48-630x552_sm.jpg") repeat;
+    background: url("https://a-static.mlcdn.com.br/450x450/papel-de-parede-coracao-vermelho-25mx57cm-lov12y-decoratons/decoratons/lov12y/cfc4599811f001076dcaf1f1ab22cca1.jpeg") repeat;
 }
 
 .titulo-segundario {
@@ -73,6 +73,15 @@ body {
     color: white;
     border: 1px solid black;
     margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+
+.acredita {
+    background: black;
+    color: white;
+    border: 1px solid black;
+    margin-right: 16px;
     margin-bottom: 16px;
 }
 
@@ -94,7 +103,7 @@ body {
     }
 
     .container-segundario {
-        background: url("https://static.significados.com.br/foto/5839-pf-48-630x552_sm.jpg") repeat-y;
+        background: url("https://a-static.mlcdn.com.br/450x450/papel-de-parede-coracao-vermelho-25mx57cm-lov12y-decoratons/decoratons/lov12y/cfc4599811f001076dcaf1f1ab22cca1.jpeg") repeat-y;
         background-position: center;
     }
 
